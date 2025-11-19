@@ -1,7 +1,9 @@
 # Alunos
 
 Lucas Camargo de Souza - 551898
+
 Sofia Barbosa Souza - 552298
+
 Roberto Tetsuo Tagashira - 551838
 
 # SkillTrack – Rastreador Inteligente de Habilidades
