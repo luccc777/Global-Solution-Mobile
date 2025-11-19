@@ -1,3 +1,9 @@
+# Alunos
+
+Lucas Camargo de Souza - 551898
+Sofia Barbosa Souza - 552298
+Roberto Tetsuo Tagashira - 551838
+
 # SkillTrack – Rastreador Inteligente de Habilidades
 
 Aplicativo mobile desenvolvido em **React Native (Expo)** para a disciplina *Advanced Programming & Mobile Dev*. O SkillTrack ajuda profissionais a planejarem e acompanharem sua evolução por meio de registros diários, análises inteligentes e recomendações acionáveis alinhadas ao tema **DataWork – Inteligência Analítica no Mundo Corporativo**.
